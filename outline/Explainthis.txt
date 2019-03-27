@@ -1,0 +1,11 @@
+This page is an example of using grid using Traversy Media youtube video: https://www.youtube.com/watch?v=moBhzSC455o&t=1407s
+
+This site is perfect for small business: with following layout
+
+-TOP NAVIGATION BUTTONS
+-TOP SHOWCASE PICTURE WITH TEXT/ OPTION BTN TO LEARN MORE
+-OPTION TO BUY SERVICE AT RIGHT OF SHOWCASE WITH BTNS
+
+
+-ON BOTTOM: SHOWCASE PICTURES OF WORK // CAN WORK WITH TESTIMONIALS OR QUOTES OF CUSTOMERS
+
